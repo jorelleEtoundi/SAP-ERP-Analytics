@@ -1,0 +1,16 @@
+fournisseur_id,nom_fournisseurr,pays,delai_livraison_prevu
+1,Fournisseur_001,Belgique,3
+2,Fournisseur_002,Espagne,12
+3,Fournisseur_003,Belgique,3
+4,Fournisseur_004,Belgique,8
+5,Fournisseur_005,Pays-Bas,11
+6,Fournisseur_006,Belgique,12
+7,Fournisseur_007,Espagne,7
+8,Fournisseur_008,Italie,14
+9,Fournisseur_009,Allemagne,12
+10,Fournisseur_010,Espagne,4
+11,Fournisseur_011,France,11
+12,Fournisseur_012,Pays-Bas,12
+13,Fournisseur_013,Pays-Bas,6
+14,Fournisseur_014,France,12
+15,Fournisseur_015,Belgique,14
