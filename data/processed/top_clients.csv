@@ -1,0 +1,11 @@
+client_id,nom_client,ville,pays,nombre_lignes_vente,quantite_totale_achetee,chiffre_affaires
+93,Client_093,Bordeaux,France,9,116,80849.39
+172,Client_172,Paris,France,7,111,66410.85
+68,Client_068,Marseille,France,8,82,65383.48
+135,Client_135,Bordeaux,France,8,91,63418.55
+75,Client_075,Nantes,France,6,93,61554.95
+178,Client_178,Lyon,France,8,113,61064.81
+19,Client_019,Bordeaux,France,8,100,59900.41
+32,Client_032,Lyon,France,4,70,58651.76
+85,Client_085,Nantes,France,8,111,58391.17
+42,Client_042,Bordeaux,France,7,82,57013.08

@@ -1,0 +1,10 @@
+stocks_id,produit_id,nom_produit,categorie,quantite_disponible,seuil_alerte,quantite_manquante_pour_atteindre_le_seuil,alerte_stock
+48,48,Papier_048,Fournitures,1,21,20,t
+5,5,Ordinateur_005,Informatique,8,50,42,t
+43,43,Étagère_043,Mobilier,11,39,28,t
+11,11,Microphone_011,Électronique,13,45,32,t
+12,12,Classeur_012,Fournitures,16,36,20,t
+39,39,Classeur_039,Fournitures,18,25,7,t
+6,6,Classeur_006,Fournitures,24,30,6,t
+37,37,Bureau_037,Mobilier,34,45,11,t
+31,31,Hub USB_031,Électronique,46,48,2,t

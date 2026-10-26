@@ -1,0 +1,16 @@
+fournisseur_id,nom_fournisseur,pays,nombre_lignes_achat,montant_total_achats,livraisons_en_retard,taux_retard_pct,ecart_moyen_jours
+7,Fournisseur_007,Espagne,26,464701.35,12,46.15,1.92
+12,Fournisseur_012,Pays-Bas,22,448302.38,9,40.91,2.55
+1,Fournisseur_001,Belgique,26,807399.19,10,38.46,2.12
+3,Fournisseur_003,Belgique,21,325320.08,8,38.10,1.71
+2,Fournisseur_002,Espagne,16,413888.80,6,37.50,1.63
+14,Fournisseur_014,France,19,395962.73,7,36.84,2.21
+4,Fournisseur_004,Belgique,15,390070.08,5,33.33,1.60
+13,Fournisseur_013,Pays-Bas,14,239035.94,4,28.57,1.21
+9,Fournisseur_009,Allemagne,25,393869.89,7,28.00,1.04
+6,Fournisseur_006,Belgique,22,338209.61,6,27.27,0.82
+5,Fournisseur_005,Pays-Bas,21,507066.06,5,23.81,0.90
+15,Fournisseur_015,Belgique,15,171945.12,3,20.00,0.80
+11,Fournisseur_011,France,20,414798.05,2,10.00,0.60
+8,Fournisseur_008,Italie,18,363233.38,1,5.56,0.11
+10,Fournisseur_010,Espagne,20,240281.27,1,5.00,0.50

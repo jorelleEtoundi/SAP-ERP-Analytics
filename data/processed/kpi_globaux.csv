@@ -1,0 +1,2 @@
+nombre_lignes_vente,quantite_totale_vendue,chiffre_affaires_total,montant_moyen_par_ligne_vente,montant_total_achats,nombre_clients,nombre_produits,nombre_fournisseurs,nombre_produits_en_alerte,nombre_livraisons_en_retard,marge_brute_estimee
+1000,10378,5155909.61,5155.91,5914083.93,200,50,15,9,86,1411136.67
