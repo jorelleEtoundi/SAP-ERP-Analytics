@@ -103,6 +103,8 @@ Sur le jeu de données actuel, les analyses produisent notamment les résultats 
 
 ## Tableau de bord Power BI
 
+![Tableau de bord SAP-ERP-Analytics](powerbi/Visualisation.png)
+
 Le tableau de bord présente les indicateurs globaux et plusieurs angles d'analyse :
 
 - évolution mensuelle des ventes ;
